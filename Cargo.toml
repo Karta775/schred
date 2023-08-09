@@ -1,0 +1,8 @@
+[package]
+name = "schred"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+schred_lib = { git = "https://github.com/Karta775/schred_lib.git" }
+
